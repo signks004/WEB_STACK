@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+  <emp>
+    <id>102</id>
+    <name>Bob</name>
+    <designation>HR</designation>
+    <salary>56000</salary>
+    <location>Bangalore</location>
+    <number>5648564596</number>
+  </emp>
+  <emp>
+      <id>103</id>
+    <name>Sign</name>
+    <designation>Supervisor</designation>
+    <salary>36000</salary>
+    <location>Bangalore</location>
+    <number>9865485965</number>
+  </emp>
+  <emp>
+       <id>103</id>
+    <name>OM</name>
+    <designation>Manager</designation>
+    <salary>46000</salary>
+    <location>Bangalore</location>
+    <number>8569456589</number>
+  </emp>
+  <emp>
+       <id>104</id>
+    <name>sundar</name>
+    <designation>HR</designation>
+    <salary>66000</salary>
+    <location>Bangalore</location>
+    <number>9878452536</number>
+  </emp>
+  <emp>
+     <id>105</id>
+    <name>Tarun</name>
+    <designation>Supervisor</designation>
+    <salary>39000</salary>
+    <location>Bangalore</location>
+    <number>7845958696</number>
+  </emp>
+  <emp>
+      <id>106</id>
+    <name>jeevan</name>
+    <designation>HR</designation>
+    <salary>76000</salary>
+    <location>Bangalore</location>
+    <number>85695667894</number>
+  </emp>
+  <emp>
+    <id>107</id>
+    <name>Dylan</name>
+    <designation>Manager</designation>
+    <salary>45000</salary>
+    <location>Bangalore</location>
+    <number>7859654586</number>
+  </emp>
+  <emp>
+     <id>108</id>
+    <name>Adisha</name>
+    <designation>HR</designation>
+    <salary>56000</salary>
+    <location>Bangalore</location>
+    <number>7856957869</number>
+  </emp>
+  <emp>
+      <id>109</id>
+    <name>Prarhisha</name>
+    <designation>HR</designation>
+    <salary>86000</salary>
+    <location>Bangalore</location>
+    <number>8596758945</number>
+  </emp>
+  <emp>
+      <id>110</id>
+    <name>Rekha k</name>
+    <designation>Manager</designation>
+    <salary>96000</salary>
+    <location>Bangalore</location>
+    <number>9036332447</number>
+  </emp>
+  
+  
+</employee>
+

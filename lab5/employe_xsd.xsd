@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="employee">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="emp" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+                    <xs:element name="id" type="xs:float"/>
+                    <xs:element name="name" type="xs:string"/>
+                    <xs:element name="designation" type="xs:string"/>
+                    <xs:element name="salary" type="xs:float"/>
+                    <xs:element name="location" type="xs:string"/>
+                    <xs:element name="number" type="xs:float"/>
+                    
+                    
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
