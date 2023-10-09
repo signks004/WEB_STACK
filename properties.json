@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Spacious Family Home",
+      "type": "House",
+      "location": "123 Main Street, Anytown, USA",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "sqft": 2500,
+      "price": 350000,
+      "description": "A spacious family home with a large backyard, perfect for kids and pets.",
+      "image": "house1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Luxury Oceanfront Villa",
+      "type": "Villa",
+      "location": "456 Ocean Drive, Beach City, USA",
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "sqft": 4500,
+      "price": 1200000,
+      "description": "A luxurious oceanfront villa with stunning views and a private beach.",
+      "image": "villa1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Modern Downtown Apartment",
+      "type": "Apartment",
+      "location": "789 High Street, City Center, USA",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1200,
+      "price": 550000,
+      "description": "A modern apartment in the heart of the city with easy access to amenities.",
+      "image": "apartment1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Rustic Mountain Cabin",
+      "type": "Cabin",
+      "location": "101 Pine Road, Mountain Town, USA",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1800,
+      "price": 280000,
+      "description": "A cozy mountain cabin surrounded by nature and hiking trails.",
+      "image": "cabin1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Seaside Condo",
+      "type": "Condo",
+      "location": "222 Beach Boulevard, Coastal City, USA",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1400,
+      "price": 750000,
+      "description": "A seaside condo with panoramic ocean views and resort amenities.",
+      "image": "condo1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Historic Townhouse",
+      "type": "House",
+      "location": "345 Historic Lane, Old Town, USA",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "sqft": 2200,
+      "price": 420000,
+      "description": "A charming historic townhouse with original details and a garden.",
+      "image": "house2.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Country Estate",
+      "type": "Estate",
+      "location": "789 Countryside Road, Rural Area, USA",
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "sqft": 6000,
+      "price": 1800000,
+      "description": "A sprawling country estate with a pool, tennis court, and acres of land.",
+      "image": "estate1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Lakefront Retreat",
+      "type": "Cottage",
+      "location": "567 Lakeside Drive, Serene Lake, USA",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "sqft": 1000,
+      "price": 320000,
+      "description": "A cozy lakefront cottage with a private dock and beautiful sunsets.",
+      "image": "cottage2.jpg"
+    },
+    {
+      "id": 9,
+      "name": "City View Penthouse",
+      "type": "Apartment",
+      "location": "101 Skyline Avenue, Metropolitan City, USA",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "sqft": 2800,
+      "price": 950000,
+      "description": "A luxurious penthouse with breathtaking city views and rooftop access.",
+      "image": "apartment2.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Golf Course Villa",
+      "type": "Villa",
+      "location": "123 Fairway Lane, Golf Resort, USA",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "sqft": 3200,
+      "price": 1400000,
+      "description": "A villa overlooking a golf course, ideal for golf enthusiasts.",
+      "image": "villa2.jpg"
+    }
+  ]
+  
